@@ -1,2 +1,2 @@
 # kodluyoruzodev-1
-Kodluyoruz Ödev1
+Kodluyoruzodev1
