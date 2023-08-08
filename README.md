@@ -1,2 +1,2 @@
-# kodluyoruz-dev-1
+# kodluyoruzodev-1
 Kodluyoruz Ödev1
